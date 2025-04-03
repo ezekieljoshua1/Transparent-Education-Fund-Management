@@ -7,3 +7,9 @@ S
 #contracts/scholarship-creation.clar,a/7/a7a8d1eea11b86b924eb8fc1800a15e44814dace
 R
 "tests/scholarship-creation.test.ts,4/b/4bfc022a5f990b1fb8e80fa551236c2fc45ae994
+U
+%contracts/applicant-verification.clar,3/0/309bbd9a71b52267b4010a57c4d89afe69352b9d
+P
+ contracts/fund-disbursement.clar,c/c/cc206d5b223168a3045df82f6ff6cc161d7d29d6
+T
+$tests/applicant-verification.test.ts,a/c/acbb82c66c3d9d7032352177ea42472ccf3473cc
