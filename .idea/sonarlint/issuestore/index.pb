@@ -15,3 +15,7 @@ T
 $tests/applicant-verification.test.ts,a/c/acbb82c66c3d9d7032352177ea42472ccf3473cc
 O
 tests/fund-disbursement.test.ts,8/e/8e6514c563cca9a7caaa4790311a537befcd9d9a
+O
+contracts/outcome-tracking.clar,5/5/5585fcc6b179ad4c0e8cd6ed798f933138aaae21
+N
+tests/outcome-tracking.test.ts,7/3/73d757350903c18bd1db8555bdae5a43d6d8172b
