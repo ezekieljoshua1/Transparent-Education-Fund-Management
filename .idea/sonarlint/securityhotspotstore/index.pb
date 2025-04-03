@@ -13,3 +13,5 @@ P
  contracts/fund-disbursement.clar,c/c/cc206d5b223168a3045df82f6ff6cc161d7d29d6
 T
 $tests/applicant-verification.test.ts,a/c/acbb82c66c3d9d7032352177ea42472ccf3473cc
+O
+tests/fund-disbursement.test.ts,8/e/8e6514c563cca9a7caaa4790311a537befcd9d9a
